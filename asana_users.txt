@@ -1,5 +1,0 @@
-Hello. Please write you asana logins on this file
-File format Skype_id|Asana_login
-
-
-Amfitorin|Amfitorin@yandex.ru
