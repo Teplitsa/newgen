@@ -10,7 +10,7 @@
         <td>Amfitorin@yandex.ru</td>
     </tr>
     <tr>
-        <td>Slemirs</td>
+        <td>Slemirs </td>
         <td>jvbxa@ukr.net</td>
     </tr>
 

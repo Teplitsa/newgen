@@ -55,7 +55,7 @@
     <tr>
         <td>Keshaajkee</td>
         <td>[Slemirs](https://github.com/Slemirs)</td>
-        <td>16.30 - 00</td>
+        <td>16.00 - 00</td>
         <td>19 - 00</td>
     </tr>
 </table>​
