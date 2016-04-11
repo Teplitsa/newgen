@@ -21,4 +21,8 @@
         <td>bitlomanka11</td>
         <td>victoria.kr.1990@gmail.com</td>
     </tr>
+    <tr>
+        <td>gro_oman</td>
+        <td>gro_oman@mail.ru</td>
+    </tr>
 </table>
