@@ -13,7 +13,7 @@
     <tr>
         <td>beherit1977</td>
         <td>[beherit1977](https://github.com/beherit1977)</td>
-        <td>21 - 24</td>
+        <td>20 - 23</td>
         <td>weekend all the time</td>
     </tr>
     <tr>
