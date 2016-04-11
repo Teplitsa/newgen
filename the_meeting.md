@@ -73,6 +73,6 @@
         <td>liam_lex</td>
         <td>[klylex](https://github.com/klylex)</td>
         <td>17.00 - 22:00</td>
-        <td>17.00 - 22:00</td>
+        <td>15.00 - 22:00</td>
     </tr>
 </table>​
