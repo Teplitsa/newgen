@@ -7,6 +7,8 @@ gleb_suvorov;gsuvorov; 10-21 в будни, выходные - выходные.
 zaker_man;oorjoock;19-22 будни, выходные - выходные.
 evegeniy1: stoyat: weekdays from 9 to 22, weekend only sun all time/
 amfitorin;amfitorin;weekdays 20:30 - 24 Moscow; weekend some time on sun
+<<<<<<< HEAD
 liam_lex; klylex; Будни - 17-22; Выходные - 15-22.
 gro_oman; wr6bit; 16 - 22; до 22
 an_isaeva;anna-geo; 20-24 кроме среды;плавающий график
+
