@@ -58,4 +58,9 @@
         <td>16.00 - 00</td>
         <td>19 - 00</td>
     </tr>
+    <tr>
+	<td>manofalife</td>
+	<td>[aumkara](https://github.com/aumkara)</td>
+	<td>empty</td>
+    </tr>
 </table>​
