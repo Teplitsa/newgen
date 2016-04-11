@@ -1,5 +1,6 @@
-    <table>
-    <caption>Список аккаунтов Asana участников стажировки</caption>
+### Список аккаунтов Asana участников стажировки
+
+<table>
     <tr>
         <th>Skype_id</th>
         <th>Asana_Login</th>
@@ -8,3 +9,4 @@
         <td>Amfitorin</td>
         <td>Amfitorin@yandex.ru</td>
     </tr>
+</table>
