@@ -4,5 +4,5 @@ skype id;github id;conv time
 
 beherit1977;Beherit; weekdays 21-24 Msc time, weekend all the time
 gleb_suvorov;gsuvorov; 10-21 в будни, выходные - выходные.
-zaker_man;Space invader;19-22 будни, выходные - выходные.
+zaker_man;oorjoock;19-22 будни, выходные - выходные.
 evegeniy1: stoyat: weekdays from 9 to 22, weekend only sun all time/
