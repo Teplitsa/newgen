@@ -63,4 +63,10 @@
 	<td>[aumkara](https://github.com/aumkara)</td>
 	<td>empty</td>
     </tr>
+    <tr>
+        <td>bitlomanka11</td>
+        <td>[bitlomanka](https://github.com/bitlomanka)</td>
+        <td>12.00 - 00:00</td>
+        <td>19 - 00:00</td>
+    </tr>
 </table>​
