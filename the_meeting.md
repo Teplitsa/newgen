@@ -75,4 +75,11 @@
         <td>17.00 - 22:00</td>
         <td>15.00 - 22:00</td>
     </tr>
+        </tr>
+	<tr>
+        <td>timurkahsapov</td>
+        <td>[timurkahsapov](https://github.com/timurkahsapov)</td>
+        <td>19.00 - 23:00</td>
+        <td>18.00 - 21:00</td>
+    </tr>
 </table>​
