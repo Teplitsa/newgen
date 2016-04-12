@@ -4,4 +4,10 @@ File format Skype_id|Asana_login
 
 Amfitorin|Amfitorin@yandex.ru
 perchik1409|serebryakov1409@gmail.com
+<<<<<<< HEAD
 Slemirs|jvbxa@ukr.net
+=======
+manofalife|dbdubdb@gmail.com
+bitlomanka11 | victoria.kr.1990@gmail.com
+Beherit|beherit1977@gmail.com
+>>>>>>> teplitsa/master

@@ -13,7 +13,7 @@
     <tr>
         <td>beherit1977</td>
         <td>[beherit1977](https://github.com/beherit1977)</td>
-        <td>21 - 24</td>
+        <td>20 - 23</td>
         <td>weekend all the time</td>
     </tr>
     <tr>
@@ -57,5 +57,29 @@
         <td>[Slemirs](https://github.com/Slemirs)</td>
         <td>16.00 - 00</td>
         <td>19 - 00</td>
+    </tr>
+    <tr>
+	<td>manofalife</td>
+	<td>[aumkara](https://github.com/aumkara)</td>
+	<td>empty</td>
+    </tr>
+    <tr>
+        <td>bitlomanka11</td>
+        <td>[bitlomanka](https://github.com/bitlomanka)</td>
+        <td>12.00 - 00:00</td>
+        <td>19 - 00:00</td>
+    </tr>
+	<tr>
+        <td>liam_lex</td>
+        <td>[klylex](https://github.com/klylex)</td>
+        <td>17.00 - 22:00</td>
+        <td>15.00 - 22:00</td>
+    </tr>
+        </tr>
+	<tr>
+        <td>timurkahsapov</td>
+        <td>[timurkahsapov](https://github.com/timurkahsapov)</td>
+        <td>19.00 - 23:00</td>
+        <td>18.00 - 21:00</td>
     </tr>
 </table>​
